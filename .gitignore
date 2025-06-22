@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Pip dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Unit test / pytest
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.tox/
+
