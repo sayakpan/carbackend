@@ -4,6 +4,8 @@ Django==4.2.23
 django-import-export==4.1.1
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
+gunicorn==23.0.0
+packaging==25.0
 PyJWT==2.9.0
 sqlparse==0.5.3
 tablib==3.5.0
