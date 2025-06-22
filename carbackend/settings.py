@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-f(yq(oru%c4j%aq=n!*!)jra@ax+5ucg0)52972ql_y-c7*!3)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['carbackend-chha.onrender.com', '127.0.0.1', 'localhost']
 
 # Application definition
 
